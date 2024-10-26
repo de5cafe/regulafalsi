@@ -4,7 +4,7 @@
 
 // Sua função *
 double f(double x) {
-    return x*x*x - x - 1;
+    return x*x*x - x - 1; //f(x) = x^3 - x -1
 }
 
 int main() {
