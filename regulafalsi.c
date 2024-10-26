@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-// Sua função
+// Sua função *
 double f(double x) {
     return x*x*x - x - 1;
 }
