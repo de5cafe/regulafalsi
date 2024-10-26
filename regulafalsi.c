@@ -50,7 +50,7 @@ int main() {
             return 0;
         }
 
-        // Atualiza os valores de a, b, fa e fb
+        // Atualiza os valores com base no sinal
         if (fxk * fa < 0) {
             b = xk;
             fb = fxk;
