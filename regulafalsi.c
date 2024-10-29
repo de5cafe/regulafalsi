@@ -60,6 +60,6 @@ int main() {
         }
     }
 
-    printf("[[N. ma1ximo de iteracoes alcancado. Raiz aproximada: %lf]]\n",xk);
+    printf("[[N. maximo de iteracoes alcancado. Raiz aproximada: %lf]]\n",xk);
     return 1;
 }
