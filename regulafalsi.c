@@ -43,7 +43,7 @@ int main() {
 
 
         printf("\nk %d:\n", iteracao);
-        printf("fa = %f, fb = %f, a = %f, b = %f, xk = %f, fxk = %f\n", fa, fb, a, b, xk, fxk);
+        printf("fa = %lf, fb = %lf, a = %lf, b = %lf, xk = %lf, fxk = %lf\n", fa, fb, a, b, xk, fxk);
 
         if (fabs(fxk) < erro) {
             printf("\n[[Raiz encontrada: x = %lf]]\n", xk);
