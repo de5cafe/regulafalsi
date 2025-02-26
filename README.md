@@ -1,4 +1,4 @@
-regulafalsi
+#regulafalsi
 
 Script em C que realiza as operações do método da falsa posição (ou regula falsi) para qualquer equação polinomial.
 
