@@ -17,7 +17,7 @@ Este script realiza os cálculos e iterações até atingir o erro máximo ou o 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/de5cafe/regulafalsi.git
-   cd calculadora-circuitos
+   cd regulafalsi
    ```
 2. Compile o código:
    ```bash
